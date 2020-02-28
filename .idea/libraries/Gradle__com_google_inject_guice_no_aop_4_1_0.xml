@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.inject:guice:4.1.0:no_aop">
+  <library name="Gradle: com.google.inject:guice:no_aop:4.1.0">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.1.0/faf9ee8ac09eafd1128091426dd367a8c0085d55/guice-4.1.0-no_aop.jar!/" />
     </CLASSES>
